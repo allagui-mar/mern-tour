@@ -1,0 +1,16 @@
+.testimonial {
+    padding:1rem ;
+    color: var(--text-color);
+  }
+  
+  .testimonial_img{
+    display: flex;
+    align-items: center;
+    gap:1rem;
+    margin-top: 0.75 rem;
+  }
+  .testimonial_img img{
+    width: 120px !important;
+    height: 120px !important;
+    border-radius:3px;
+  }
